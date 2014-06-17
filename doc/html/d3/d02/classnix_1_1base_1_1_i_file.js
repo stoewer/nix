@@ -1,0 +1,26 @@
+var classnix_1_1base_1_1_i_file =
+[
+    [ "~IFile", "d3/d02/classnix_1_1base_1_1_i_file.html#a8fc7f7f9ece5c8b1429644842e787124", null ],
+    [ "blockCount", "d3/d02/classnix_1_1base_1_1_i_file.html#a0f4cbbf848798ef2d61267c58374c485", null ],
+    [ "close", "d3/d02/classnix_1_1base_1_1_i_file.html#a0f69f7e98b238c29e0ebf54f9a50b02c", null ],
+    [ "createBlock", "d3/d02/classnix_1_1base_1_1_i_file.html#af5d7d3cb4adaf7fb6e13654bcd861a82", null ],
+    [ "createdAt", "d3/d02/classnix_1_1base_1_1_i_file.html#a7d3e8f82779dc10f1d4cdf75b69470e8", null ],
+    [ "createSection", "d3/d02/classnix_1_1base_1_1_i_file.html#acc217ee9ba996c12da7be22951ec8ffa", null ],
+    [ "deleteBlock", "d3/d02/classnix_1_1base_1_1_i_file.html#a5cba5b149a14f91237cb9b1e6986d37d", null ],
+    [ "deleteSection", "d3/d02/classnix_1_1base_1_1_i_file.html#abe3b5a1896f30001d14aab08b27d45f7", null ],
+    [ "forceCreatedAt", "d3/d02/classnix_1_1base_1_1_i_file.html#a48b12d14f7af6e0b3f6816f8bbc5a8fe", null ],
+    [ "forceUpdatedAt", "d3/d02/classnix_1_1base_1_1_i_file.html#adb4d8bc3cd4f0e0c7993421638f5461e", null ],
+    [ "format", "d3/d02/classnix_1_1base_1_1_i_file.html#a4f9ed3c6ab85d1bbe36f6fea541fb958", null ],
+    [ "getBlock", "d3/d02/classnix_1_1base_1_1_i_file.html#a72c918a099adff22d6ebf167161bf89e", null ],
+    [ "getBlock", "d3/d02/classnix_1_1base_1_1_i_file.html#a1b116a3c38bf5d95a92df8b4b585f503", null ],
+    [ "getSection", "d3/d02/classnix_1_1base_1_1_i_file.html#a8577dd7daaae7953b86261e0ee09b3c4", null ],
+    [ "getSection", "d3/d02/classnix_1_1base_1_1_i_file.html#a87db39b0387807723dd98cfbe9fe843c", null ],
+    [ "hasBlock", "d3/d02/classnix_1_1base_1_1_i_file.html#aa1a1a02789fc0b8793f3ae7f3ab81723", null ],
+    [ "hasSection", "d3/d02/classnix_1_1base_1_1_i_file.html#a7939b96c750e2c7bec1989d837fa7256", null ],
+    [ "isOpen", "d3/d02/classnix_1_1base_1_1_i_file.html#a5109b413d173363e1894974ce4cfbadd", null ],
+    [ "sectionCount", "d3/d02/classnix_1_1base_1_1_i_file.html#ab5f9cac6aed608607456f20fe84cad39", null ],
+    [ "setCreatedAt", "d3/d02/classnix_1_1base_1_1_i_file.html#a60b65822078a751b342ac0ff009f7d55", null ],
+    [ "setUpdatedAt", "d3/d02/classnix_1_1base_1_1_i_file.html#ab004e0399574f7a4cc583b23c673ab1e", null ],
+    [ "updatedAt", "d3/d02/classnix_1_1base_1_1_i_file.html#a59cd17f7d3f5adc9992effa5fe835e36", null ],
+    [ "version", "d3/d02/classnix_1_1base_1_1_i_file.html#a02f54244d9a84f29f476cef501af2a09", null ]
+];

@@ -1,0 +1,26 @@
+var classnix_1_1base_1_1_i_data_tag =
+[
+    [ "~IDataTag", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#aa5cc497fe574362279d4cc2fa02de4fc", null ],
+    [ "addReference", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#af44b30004ef3e61331312cc4cc5ffeb5", null ],
+    [ "createFeature", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a6e0864234381307b04ca45c3ddf61f32", null ],
+    [ "deleteFeature", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a934e1a5a9a2a664b75b308e4a41bc17b", null ],
+    [ "extents", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a747d21f318ad6c05745b1057df57bb82", null ],
+    [ "extents", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a8e15d8e7d5bf19979fa32eadfb1d904d", null ],
+    [ "extents", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a2ed9c226dcf459d5057d7251d922ba47", null ],
+    [ "featureCount", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a976dbb02754e336043e5ce8a8b0cfaf7", null ],
+    [ "getFeature", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#afe4c84d4515dad7cb398d91d7e31ab1f", null ],
+    [ "getFeature", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#ae8e26185feb5d30acd6221a83d18793f", null ],
+    [ "getReference", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a37bdb40c0a226dd8d8571ed75b008be2", null ],
+    [ "getReference", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#acc19c9cde216ae2ee51b386dbd3443be", null ],
+    [ "hasFeature", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#ae76e7cb10b1fe58921a689157e629c69", null ],
+    [ "hasPositions", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a2d3677e17921142c6914c715d9e3854c", null ],
+    [ "hasReference", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a25177abd62807f4df4ec622b5abf0154", null ],
+    [ "positions", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#afb038a96e289cc1809498af81258caf8", null ],
+    [ "positions", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#ae110e2ff5fc0b174a669b6788c00dea8", null ],
+    [ "referenceCount", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#aa3a8055856f48a7dd1132e287125aae4", null ],
+    [ "references", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a7b738f824a0daf42d2cb522fc2f93752", null ],
+    [ "removeReference", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a9fd04df50ef53ea399b6153638a2db84", null ],
+    [ "units", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#a56e9c03a97660ee942e8e7e8318145fd", null ],
+    [ "units", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#ada97a545b63f7b87deaea3ae9130d87a", null ],
+    [ "units", "da/dd4/classnix_1_1base_1_1_i_data_tag.html#ac64d77860c658fe1926c91405088e9f4", null ]
+];

@@ -1,0 +1,28 @@
+var classnix_1_1base_1_1_i_block =
+[
+    [ "~IBlock", "d4/d00/classnix_1_1base_1_1_i_block.html#a86da0c342362bb2ea7f0b545e6fb9242", null ],
+    [ "createDataArray", "d4/d00/classnix_1_1base_1_1_i_block.html#a506b02038eb71e643e5ac2a631ae7822", null ],
+    [ "createDataTag", "d4/d00/classnix_1_1base_1_1_i_block.html#ade08e79e67723a0652a4102ac265a8d0", null ],
+    [ "createSimpleTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a6e6fe73d21678b87eb6b6af547c51c97", null ],
+    [ "createSource", "d4/d00/classnix_1_1base_1_1_i_block.html#a81b1c8886ff0135ce27240d3c392ac98", null ],
+    [ "dataArrayCount", "d4/d00/classnix_1_1base_1_1_i_block.html#a3f6d1307483813d2a740fab4bf55a182", null ],
+    [ "dataTagCount", "d4/d00/classnix_1_1base_1_1_i_block.html#a23a6d8aa680d2afb4c10b80366005e8d", null ],
+    [ "deleteDataArray", "d4/d00/classnix_1_1base_1_1_i_block.html#a1aef888cecaf05804c67cafb4c3ffe78", null ],
+    [ "deleteDataTag", "d4/d00/classnix_1_1base_1_1_i_block.html#ab76e7a322039b28be8a26b655dddd6f8", null ],
+    [ "deleteSimpleTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a7a6b0d8e8788f86f0e48ee97a61e79c8", null ],
+    [ "deleteSource", "d4/d00/classnix_1_1base_1_1_i_block.html#aba2682ab28ee03ec2cc4b351bac4b182", null ],
+    [ "getDataArray", "d4/d00/classnix_1_1base_1_1_i_block.html#a761b5682f0279f9476e1adb0ad4a89d9", null ],
+    [ "getDataArray", "d4/d00/classnix_1_1base_1_1_i_block.html#af837947f496d924d8effe2b4787fbe4d", null ],
+    [ "getDataTag", "d4/d00/classnix_1_1base_1_1_i_block.html#aa2b1d95ddcb8aaac7400c564e076b75f", null ],
+    [ "getDataTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a4bd441bc6f4bd333f068331b65b27f90", null ],
+    [ "getSimpleTag", "d4/d00/classnix_1_1base_1_1_i_block.html#ab0cb07264e72e6bc917eabfe4dcb6b7b", null ],
+    [ "getSimpleTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a2d1e8b6e42d885952a6d4d4a9d4dd594", null ],
+    [ "getSource", "d4/d00/classnix_1_1base_1_1_i_block.html#a890a690be8a5bc3b609b74f987fa57da", null ],
+    [ "getSource", "d4/d00/classnix_1_1base_1_1_i_block.html#a94fb3114d00be016f375a501188ce406", null ],
+    [ "hasDataArray", "d4/d00/classnix_1_1base_1_1_i_block.html#aead530d6e7ffc3c8f64f8290e2a31d1a", null ],
+    [ "hasDataTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a8d6f5964c01171f7d6f4bf1b1aaae409", null ],
+    [ "hasSimpleTag", "d4/d00/classnix_1_1base_1_1_i_block.html#a9584a31bc2650b857def1435e9c81579", null ],
+    [ "hasSource", "d4/d00/classnix_1_1base_1_1_i_block.html#a9a9b456d04825069c0b4efa2cf361ad9", null ],
+    [ "simpleTagCount", "d4/d00/classnix_1_1base_1_1_i_block.html#a1b9a0b5eff371fbbc08cce00fddafa53", null ],
+    [ "sourceCount", "d4/d00/classnix_1_1base_1_1_i_block.html#a1e7d977f1e4fec44cae06a5db2c27e8f", null ]
+];

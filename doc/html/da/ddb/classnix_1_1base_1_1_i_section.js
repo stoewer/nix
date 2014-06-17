@@ -1,0 +1,28 @@
+var classnix_1_1base_1_1_i_section =
+[
+    [ "~ISection", "da/ddb/classnix_1_1base_1_1_i_section.html#a5f2eeaa2c8fcb2692cf77f349278ad04", null ],
+    [ "createProperty", "da/ddb/classnix_1_1base_1_1_i_section.html#a3a46cdea5eb22bf160e500d4b6bafedb", null ],
+    [ "createSection", "da/ddb/classnix_1_1base_1_1_i_section.html#a5dde069ac2b97c4c8322ea2f2fa504a2", null ],
+    [ "deleteProperty", "da/ddb/classnix_1_1base_1_1_i_section.html#ac0b68b895d4f37419980077e292c67a7", null ],
+    [ "deleteSection", "da/ddb/classnix_1_1base_1_1_i_section.html#af33816e3a5339f16479daee550d99088", null ],
+    [ "getProperty", "da/ddb/classnix_1_1base_1_1_i_section.html#a69b78cc157c1507ed243be4c060b45f7", null ],
+    [ "getProperty", "da/ddb/classnix_1_1base_1_1_i_section.html#ab9c1791aacbba5eaa918507cab68c311", null ],
+    [ "getPropertyByName", "da/ddb/classnix_1_1base_1_1_i_section.html#abd626c95e4b1dac02300fae7f4a9171a", null ],
+    [ "getSection", "da/ddb/classnix_1_1base_1_1_i_section.html#a4eeaf7ae52348e6662bb7942171bfd0d", null ],
+    [ "getSection", "da/ddb/classnix_1_1base_1_1_i_section.html#afa4ac7dbf9e461756ceb56c932230b27", null ],
+    [ "hasProperty", "da/ddb/classnix_1_1base_1_1_i_section.html#ae5766ddc06c68ae90cdf996985d06853", null ],
+    [ "hasPropertyWithName", "da/ddb/classnix_1_1base_1_1_i_section.html#a26204a551113808bd9dee35a115df7c5", null ],
+    [ "hasSection", "da/ddb/classnix_1_1base_1_1_i_section.html#afad517053760a8d46bd80912ae6abc56", null ],
+    [ "link", "da/ddb/classnix_1_1base_1_1_i_section.html#aaa0b40248faf20ab7b9594a8d2dde043", null ],
+    [ "link", "da/ddb/classnix_1_1base_1_1_i_section.html#a48533cad5442b27d14161ccff9a3e249", null ],
+    [ "link", "da/ddb/classnix_1_1base_1_1_i_section.html#a51a7db9da8af21524e693ec99ef8d591", null ],
+    [ "mapping", "da/ddb/classnix_1_1base_1_1_i_section.html#a2fa39417124875db708e3259d32c1212", null ],
+    [ "mapping", "da/ddb/classnix_1_1base_1_1_i_section.html#aadfc8d7e160f4aa5d973b282f3780dab", null ],
+    [ "mapping", "da/ddb/classnix_1_1base_1_1_i_section.html#a6763a8363e414e501a3550c687c6bfc3", null ],
+    [ "parent", "da/ddb/classnix_1_1base_1_1_i_section.html#abd77caf7353e22584f418c135606f0b5", null ],
+    [ "propertyCount", "da/ddb/classnix_1_1base_1_1_i_section.html#a1acbdaa6d4c51eb0540f31e2ca453418", null ],
+    [ "repository", "da/ddb/classnix_1_1base_1_1_i_section.html#ae4b421f3021effe63c18c77ebda66adf", null ],
+    [ "repository", "da/ddb/classnix_1_1base_1_1_i_section.html#a7d9240e9bc152b807b83e1659ef4ea7b", null ],
+    [ "repository", "da/ddb/classnix_1_1base_1_1_i_section.html#a16a6343ed3fbef26f0f9ce7591539a19", null ],
+    [ "sectionCount", "da/ddb/classnix_1_1base_1_1_i_section.html#a4f588ca5e6e35462623b08c4e62bc224", null ]
+];
