@@ -8,7 +8,7 @@ test/bin
 Makefile.conf
 
 # ingore documentation
-doc/html
+# doc/html
 
 # ignore hdf5 files
 *.hdf
