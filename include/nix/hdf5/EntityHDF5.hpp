@@ -68,7 +68,6 @@ public:
 
     Group group() const;
 
-    static void init(const Group &group, const std::string &id);
 
     virtual ~EntityHDF5();
 
@@ -77,6 +76,9 @@ protected:
     std::shared_ptr<base::IFile> file() const;
 
 };
+
+
+void initEntityGroup(const Group &group, const std::string &id);
 
 
 } // namespace hdf5

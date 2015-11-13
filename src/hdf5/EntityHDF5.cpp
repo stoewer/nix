@@ -111,12 +111,12 @@ bool EntityHDF5::operator!=(const EntityHDF5 &other) const {
 }
 
 
-void EntityHDF5::init(const Group &group, const std::string &id) {
+EntityHDF5::~EntityHDF5() {}
+
+
+void initEntityGroup(const Group &group, const std::string &id) {
     group.setAttr("entity_id", id);
 }
-
-
-EntityHDF5::~EntityHDF5() {}
 
 } // ns nix::hdf5
 } // ns nix
